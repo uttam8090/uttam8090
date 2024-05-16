@@ -6,7 +6,7 @@
 
 ## How to Reach Me
 - 📧 Feel free to reach out to me via email: [uttamsingh40@gmail.com](mailto:uttamsingh40@gmmail.com)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/uttam-singh-a2364575/)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/uttam8090/)
 
 ## Projects
 - 📂 You can check out some of my work and projects on my GitHub profile.
