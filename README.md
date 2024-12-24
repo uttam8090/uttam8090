@@ -1,7 +1,7 @@
 # Hi there, I'm Uttam Singh 👋
 ## About Me
 - 📚 I'm currently learning Data Science and exploring the fascinating world of data analysis, data visualization, and technology.
-- 💼 I'm passionate about becoming a Data Scientist and Data Analyst.
+- 💼 I'm passionate about becoming a Data Scientist and Analyst.
 - 🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
 
 ## How to Reach Me
